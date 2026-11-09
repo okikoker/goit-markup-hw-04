@@ -34,3 +34,12 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.team-info .social-list {
+  gap: 24px;
+}
+
+.team-info .social-link:hover,
+.team-info .social-link:focus {
+  background-color: #404bbf;
+}
